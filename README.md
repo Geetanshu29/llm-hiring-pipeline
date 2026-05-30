@@ -37,7 +37,10 @@ This project automates the initial candidate evaluation process by extracting re
 
 ## 📸 Demo
 
-*(Add screenshots here if needed)*
+<img width="1920" height="1080" alt="Screenshot 2026-05-30 161245" src="https://github.com/user-attachments/assets/59382523-75a6-4534-8255-dc9594456721" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-30 161430" src="https://github.com/user-attachments/assets/2bd3aa3d-4d56-4002-8ba6-a96f61bf7a49" />
+
+
 
 ---
 
