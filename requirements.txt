@@ -1,0 +1,10 @@
+pandas
+numpy
+openai
+python-dotenv
+pdfplumber
+pytesseract
+Pillow
+fastapi
+uvicorn
+pydantic
